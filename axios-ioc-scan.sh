@@ -22,7 +22,7 @@
 #   - CrowdSec decisions (if installed)
 #   - iptables / nftables / pf firewall rules
 #
-# Tested on: Ubuntu 22.04/24.04, Debian 12, Fedora 40, Arch, Alpine, macOS 14+
+# Tested on: Ubuntu 22.04/24.04
 #
 # IOC sources:
 #   - Wiz Research: https://www.wiz.io/blog/axios-npm-compromised-in-supply-chain-attack
