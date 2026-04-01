@@ -55,7 +55,7 @@ Root is recommended for full filesystem, network, and log visibility. The exit c
 
 ## Platform Support
 
-Tested on: Ubuntu 22.04/24.04, Debian 12, Fedora 40, Arch, Alpine, macOS 14+
+Tested on: Ubuntu 22.04/24.04.
 
 ## References
 
